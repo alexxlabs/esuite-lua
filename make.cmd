@@ -1,0 +1,1 @@
+nodemcu-tool upload init.lua init2-WIFI.lua init3-TIME.lua
